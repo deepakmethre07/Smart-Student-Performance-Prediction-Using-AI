@@ -13,6 +13,12 @@ pip install -r requirements.txt
 # Launch the web application
 streamlit run app.py
 ```
+or 
+## 🌐 Live Demo
+
+🚀 Try the live web app here:  
+👉 https://deepak-performance-predictor.streamlit.app
+
 
 **Or use the launcher scripts:**
 - **Linux/Mac**: `bash run_app.sh`
