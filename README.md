@@ -17,7 +17,7 @@ or
 ## 🌐 Live Demo
 
 🚀 Try the live web app here:  
-👉 https://deepak-performance-predictor.streamlit.app
+👉 [https://deepak-performance-predictor.streamlit.app](https://student-performance-predictor-ai.streamlit.app/)
 
 
 **Or use the launcher scripts:**
