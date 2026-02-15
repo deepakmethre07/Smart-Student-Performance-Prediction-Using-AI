@@ -1,0 +1,35 @@
+======================================================================
+SMART STUDENT PERFORMANCE PREDICTION - MODEL REPORT
+======================================================================
+
+PROJECT OVERVIEW:
+----------------------------------------------------------------------
+Total Students: 200
+Training Set: 160 students (80%)
+Testing Set: 40 students (20%)
+Features Used: Attendance (%), Study Hours, Previous Marks, Assignment Scores
+
+MODEL PERFORMANCE:
+----------------------------------------------------------------------
+
+Linear Regression:
+  R² Score: 73.81%
+  Mean Absolute Error: 4.64 marks
+  Root Mean Squared Error: 5.68 marks
+
+Decision Tree:
+  R² Score: 24.77%
+  Mean Absolute Error: 7.13 marks
+  Root Mean Squared Error: 9.62 marks
+
+Best Model: Linear Regression
+Best Accuracy: 73.81%
+
+FEATURE IMPORTANCE:
+----------------------------------------------------------------------
+Attendance (%): 0.3273
+Study Hours: 2.4803
+Previous Marks: 0.3050
+Assignment Scores: 0.1395
+
+======================================================================
